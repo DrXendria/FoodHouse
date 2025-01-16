@@ -27,15 +27,15 @@ For back-end side, the authorization has been done with NextAuth.js. And the las
 About the technologies I used, you can take a look at the following resources and documentations:
 
 - [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js is what a great framework for web.
-- [The Next.js GitHub repository](https://github.com/vercel/next.js). - it is an open-source framework.
+- [The Next.js GitHub repository](https://github.com/vercel/next.js) - it is an open-source framework.
 
-- [MongoDB Documentation](https://www.mongodb.com/docs). - how to use MongoDB and its collections.
+- [MongoDB Documentation](https://www.mongodb.com/docs) - how to use MongoDB and its collections.
 
 - [Tailwind Documentation](https://tailwindcss.com/docs/installation) - take a look here to learn Tailwind for make good-looking designs for websites.
 
-- [NextAuth Library](https://next-auth.js.org) - the library to handle authorization processes for Next.js.
+- [NextAuth Package](https://next-auth.js.org) - the package to handle authorization processes for Next.js.
 
-Last thing you need to take a look is [`package.json`](https://github.com/DrXendria/FoodHouse/blob/main/package.json) file of this repository. The libraries I used in this project are written here with their versions.
+Last thing you need to take a look is [`package.json`](https://github.com/DrXendria/FoodHouse/blob/main/package.json) file of this repository. The packages I used in this project are written here with their versions.
 
 ## Deploy on Vercel
 
